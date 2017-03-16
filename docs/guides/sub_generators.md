@@ -19,8 +19,8 @@ As you develop your app you'll want to add additional components. That's where t
   ```
 3. restart your `gulp watch` task
 3. in your browser, depending on the template you chose, navigate to `http://localhost:9000/#`
-  - `/<module-name-in-kebap-case>` for `blank` templates
-  - `/<module-name-in-kebap-case>/list` for `sidemenu` and `tabs` templates
+  - `/<module-name-in-kebab-case>` for `blank` templates
+  - `/<module-name-in-kebab-case>/list` for `sidemenu` and `tabs` templates
 4. **Done!** - see your new module in action!
 
 #### AngularJS components
